@@ -167,6 +167,17 @@ npm install
 ```
 
 ---
+the url is 
+
+amazon machine ,ubuntu 24 version
+
+http://23.20.5.221:1337/admin/
+
+to check the website timings 10 am  to 4 pm instance running time for the next two days  
+
+
+
+
 
 ## 📘 License
 
